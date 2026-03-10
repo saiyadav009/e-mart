@@ -1,0 +1,166 @@
+export const furnitureData = [{
+    "id": "1",
+    "product": "Furniture",
+    "image": "/assets/Furniture/1.jpg",
+    "type": "Sofa",
+    "brand": "IKEA",
+    "model": "ComfortPlus",
+    "price": "13299.00",
+    "category": "Home",
+    "description": "A comfortable and modern sofa with plush cushions and a sleek design."
+},
+{
+    "id": "2",
+    "product": "Furniture",
+    "image": "/assets/Furniture/2.jpg",
+    "type": "Dining Table",
+    "brand": "Wayfair",
+    "model": "ElegantDine",
+    "price": "23899.00",
+    "category": "Home",
+    "description": "An elegant dining table with solid wood construction and expandable design."
+},
+{
+    "id": "3",
+    "product": "Furniture",
+    "image": "/assets/Furniture/3.jpg",
+    "type": "Bed",
+    "brand": "Ashley ",
+    "model": "DreamRest",
+    "price": "21299.00",
+    "category": "Home",
+    "description": "A stylish and comfortable bed with upholstered headboard and durable frame."
+},
+{
+    "id": "4",
+    "product": "Furniture",
+    "image": "/assets/Furniture/4.jpg",
+    "type": "Coffee Table",
+    "brand": "West Elm",
+    "model": "ModernBlend",
+    "price": "9299.00",
+    "category": "Home",
+    "description": "A modern coffee table with a blend of materials, adding character to your living room."
+},
+{
+    "id": "5",
+    "product": "Furniture",
+    "image": "/assets/Furniture/5.jpg",
+    "type": "Wardrobe",
+    "brand": "Houzz",
+    "model": "SpaceSaver",
+    "price": "15999.00",
+    "category": "Home",
+    "description": "A space-saving wardrobe with versatile storage compartments and sleek appearance."
+},
+{
+    "id": "6",
+    "product": "Furniture",
+    "image": "/assets/Furniture/6.jpg",
+    "type": "Bookshelf",
+    "brand": "Crate & Barrel",
+    "model": "BookHaven",
+    "price": "7999.00",
+    "category": "Home",
+    "description": "A functional bookshelf with adjustable shelves, suitable for any room."
+},
+{
+    "id": "7",
+    "product": "Furniture",
+    "image": "/assets/Furniture/7.jpg",
+    "type": "Desk",
+    "brand": "Staples",
+    "model": "WorkPro",
+    "price": "5399.00",
+    "category": "Office",
+    "description": "A spacious office desk with ergonomic design and ample storage."
+},
+{
+    "id": "8",
+    "product": "Furniture",
+    "image": "/assets/Furniture/8.jpg",
+    "type": "Bar Stool",
+    "brand": "Target",
+    "model": "UrbanChic",
+    "price": "2399.00",
+    "category": "Home",
+    "description": "An urban chic bar stool with a contemporary look, perfect for kitchen islands."
+},
+{
+    "id": "9",
+    "product": "Furniture",
+    "image": "/assets/Furniture/9.jpg",
+    "type": "Dresser",
+    "brand": "Pottery Barn",
+    "model": "RusticCharm",
+    "price": "15999.00",
+    "category": "Home",
+    "description": "A rustic dresser with ample storage space and charming distressed finish."
+},
+{
+    "id": "10",
+    "product": "Furniture",
+    "image": "/assets/Furniture/10.jpg",
+    "type": "Couch",
+    "brand": "Crate & Barrel",
+    "model": "ComfyLounge",
+    "price": "26599.00",
+    "category": "Home",
+    "description": "A comfortable couch with deep seating and modern design, perfect for lounging."
+},
+{
+    "id": "11",
+    "product": "Furniture",
+    "image": "/assets/Furniture/11.jpg",
+    "type": "Side Table",
+    "brand": "CB2",
+    "model": "MinimalistSide",
+    "price": "3999.00",
+    "category": "Home",
+    "description": "A minimalist side table with clean lines, adding functionality to any space."
+},
+{
+    "id": "12",
+    "product": "Furniture",
+    "image": "/assets/Furniture/12.jpg",
+    "type": "Bedside Table",
+    "brand": "Ethan Allen",
+    "model": "ClassicNight",
+    "price": "6699.00",
+    "category": "Home",
+    "description": "A classic bedside table with a timeless design and convenient storage."
+},
+{
+    "id": "13",
+    "product": "Furniture",
+    "image": "/assets/Furniture/office_chair.png",
+    "type": "Chair",
+    "brand": "Herman Miller",
+    "model": "Aeron Office Chair",
+    "price": "39899.00",
+    "category": "Office",
+    "description": "Ergonomic office chair designed for all-day comfort and support."
+},
+{
+    "id": "14",
+    "product": "Furniture",
+    "image": "/assets/Furniture/arm_chair.png",
+    "type": "Chair",
+    "brand": "IKEA",
+    "model": "Poang Armchair",
+    "price": "3499.00",
+    "category": "Home",
+    "description": "Classic and comfortable armchair with a lightweight, bentwood frame."
+},
+{
+    "id": "15",
+    "product": "Furniture",
+    "image": "/assets/Furniture/accent_chair.png",
+    "type": "Chair",
+    "brand": "Target",
+    "model": "Modern Accent Chair",
+    "price": "5299.00",
+    "category": "Home",
+    "description": "Stylish accent chair with velvet upholstery and gold-finished legs."
+}
+]
