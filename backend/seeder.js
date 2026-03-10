@@ -30,7 +30,7 @@ const allProducts = [
     ...womanData.map(item => ({ ...item, category: 'woman' }))
 ];
 
-const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://user:password@cluster0.mongodb.net/emart?retryWrites=true&w=majority';
+const MONGO_URI = process.env.MONGO_URI;
 
 const importData = async () => {
     try {
